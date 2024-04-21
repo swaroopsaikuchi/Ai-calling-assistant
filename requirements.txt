@@ -1,0 +1,5 @@
+h2o-wave
+PyYaml
+simplegmail
+h2ogpte
+web3
